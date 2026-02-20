@@ -1,7 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Integrity RPG
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-test that changes apply
+This is the homepage of the Integrity RPG wiki.
