@@ -1,4 +1,4 @@
 ---
 title: Slowed
 ---
-After taking an action, lower your marker on [[initiative]] for every slowed you have, then use all slowed.
+After taking an action, lower your pawn on [[initiative]] by 1. Then lose all slow.

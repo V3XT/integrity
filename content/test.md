@@ -15,12 +15,12 @@ If you would ever remove dice from your pool such that you'd have less than 2, i
 
 _Example: Grog is fleeing from a horde of zombies, and attempts to jump a 3 meter chasm. The GM calls for a **Might 8 Test.** His pool starts at 2d6. Grog has a Might of 2, so he adds that to his pool for 4d6. He also has nimble boots, which grant him 1 boon in feats of athleticism, bring him to 5d6. Finally he is burdened with treasure, exceeding his_ [[load]] _by 1. This reduces his pool to 4d6. He rolls 4d6, and sums the greatest 2 dice to determine the result of his test._
 
-|   |   |   |
-|---|---|---|
-|⚀⚀|Critical Failure|If the result of the dice is ⚀⚀ the Test is failed, even if it would pass when adding the character's ability. In addition the consequence of failure is maximized. This typically shouldn't introduce _unexpected_ consequences, or make the character look like a fool.|
-|Result <= Difficulty|Failure|The Test is failed, and the character suffers the consequence.|
-|Result > Difficulty|Success|The Test is passed, and the character successfully accomplishes the action.|
-|⚅⚅|Critical Success|The test is passed, and the character successfully accomplishes the action with a bonus.|
+|                      |                  |                                                                                                                                                                                                                                                                           |
+| -------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚀⚀                   | Critical Failure | If the result of the dice is ⚀⚀ the Test is failed, even if it would pass when adding the character's ability. In addition the consequence of failure is maximized. This typically shouldn't introduce _unexpected_ consequences, or make the character look like a fool. |
+| Result <= Difficulty | Failure          | The Test is failed, and the character suffers the consequence.                                                                                                                                                                                                            |
+| Result > Difficulty  | Success          | The Test is passed, and the character successfully accomplishes the action.                                                                                                                                                                                               |
+| ⚅⚅                   | Critical Success | The test is passed, and the character successfully accomplishes the action with a bonus.                                                                                                                                                                                  |
 
 _Examples: Grog has a Might of 2. He rolls the dice and gets the following result.  
 _⚀⚀ _- Critical Failure. Grog stumbles near the edge and plunges into the chasm._  

@@ -1,10 +1,10 @@
 ---
 title: Design Goals
 ---
-
 - Simple enough to teach to my mother.
-- Encourage meaningful decisions.
+- Reward meaningful decisions and tactics.
 - Resolve conflict quickly.
+
 
 
 

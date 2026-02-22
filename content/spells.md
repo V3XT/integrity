@@ -9,22 +9,10 @@ To use a spell, you must pay the cost, and make a Will Test. If you meet the di
 
 If you do not meet the difficulty, the spell fails. At the GM's discretion, they may apply bonuses based on the failure to worsen the effect.
 
-  
-
-Spells have the following properties:
-
-Effect - What the spell does when cast.
-
-Cost - The cost to use the spell. This will typically be [[fatigue]] or [[exhaustion]], but could be anything.
-
-Difficulty - The difficulty of the Will Test.
-
-Flux - Additional effects and modifiers that can be used when there are extra success on the Will Test, or used by the GM on a failure.
-
 To fully quantify a spell, use the following properties.
-- Cost
+- Cost - This will typically be [[fatigue]] or [[exhaustion]], but could be anything.
 - Casting Time - Assume an action if not specified.
-- Difficulty - The number you need to beat with a Will Test.
+- Difficulty - The number you need to beat with a Will [[test]].
 - Target - What the spell effect is applied to.
 - Range - How far away the target can be from you.
 - Effect - What happens to the target.
