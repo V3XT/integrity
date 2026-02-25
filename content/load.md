@@ -10,7 +10,7 @@ The following things are a burden to carry. Unless otherwise noted, they provide
 
 Items - Any equipment, weapons, or gear. Unwieldy items, such as a heavy chest, or large painting may have additional burden at GM discretion. Small items, like keys or gems can be bundled in a reasonable container and treated as a single burden.
 
-[[spells|Spells]] - Controlling a spell requires binding it to you. Though ethereal in nature, this still provides a burden.
+[[spell|Spells]] - Controlling a spell requires binding it to you. Though ethereal in nature, this still provides a burden.
 
 [[condition|Conditions]] - 
 
