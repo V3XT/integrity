@@ -3,9 +3,7 @@ title: Interact
 aliases:
   - Interact
 ---
-Interact covers a broad range of actions. I
-
-
+Interact covers a broad range of actions. During a [[time#Beat]] it requires a Knack Test. 
 
 > [!example] Examples
 > - Open a door
