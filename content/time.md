@@ -1,5 +1,8 @@
 ---
 title: Time
+aliases:
+  - Pace
+  - Pacing
 ---
 # Setting the Pace
 During play, it's important to set the Pace of the game. The Pace is a rough measure of how much time passes in-game for each decision made by the [[player|players]]. The Pace of the game should change based on the situation. If decisions are becoming repetitive, increase the Pace so that each action represents a greater amount of time. If decisions are becoming overly complex, decrease the Pace, so that players have more time to respond to the results of their actions.
