@@ -1,5 +1,8 @@
 ---
 title: Tests
+aliases:
+  - Test
+  - Tests
 ---
 Tests are used whenever a character attempts something with uncertain results. Tests should only be called for when there is a reasonable chance the action could fail, and there are meaningful consequences for failure. The most common consequence for failing is wasting time, or putting a character at risk from a threat. In general, players should describe what actions their characters take, and only perform a test when called for by the GM. If a player asks to do something that their character would understand has no chance of succeeding, the GM should inform them of such, and not call for a roll.
 

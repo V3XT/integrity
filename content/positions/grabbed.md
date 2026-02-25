@@ -1,5 +1,8 @@
 ---
 title: Grabbed
+aliases:
+  - Grabbed
+  - Grab
 ---
 A grabbed character loses 1 die when they attempt to [[movement|move]] to a different [[zone]], or attack a target that isn't grabbing them.
 

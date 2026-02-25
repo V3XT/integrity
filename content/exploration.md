@@ -1,5 +1,8 @@
 ---
 title: Exploration
+aliases:
+  - Explore
+  - Exploration
 ---
 # Exploration Procedure
 The exploration procedure is similar regardless of the location and [[Pace]], but there are some differences. In all cases, the [[players]] will describe what action they're taking, and then the GM will determine the result. If there is a potential for a [[encounter]], the GM will also determine if that occurs.

@@ -1,5 +1,8 @@
 ---
 title: Encounter
+aliases:
+  - Encounter
+  - Encounters
 ---
 # What is an Encounter?
 

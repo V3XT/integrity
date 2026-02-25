@@ -1,5 +1,8 @@
 ---
 title: Characters
+aliases:
+  - Character
+  - Characters
 ---
 Characters represent anything in the fiction that's able to make decisions that affect the world. This includes both the player's characters, and any NPCs controlled by the GM.
 

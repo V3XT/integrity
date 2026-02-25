@@ -1,5 +1,7 @@
 ---
 title: Initiative
+aliases:
+  - Initiative
 ---
 When the time scale changes to [[time#Beat|Beats]], roll for initiative. Each character in the scene [[test|tests]] Knack and places a pawn on the space of the Initiative Clock equal to their result (If they rolled a 9, they'd put a pawn on the 9). If multiple pawns are on the same space, place them in an order of the player's choice, extending outwards from the center.
 

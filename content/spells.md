@@ -1,5 +1,8 @@
 ---
 title: Spells
+aliases:
+  - Spells
+  - Spell
 ---
 Spells are primal beings of magic. Each spells exist as a unique entity within the world. To know a spell is to bind it to your soul.
 

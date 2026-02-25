@@ -1,5 +1,8 @@
 ---
 title: Wounds
+aliases:
+  - Wound
+  - Wounds
 ---
 Whenever a character is dealt damage, they gain a Wound with a Burden equal to the damage. Wounds often have unique negative effects, with larger wounds having worse penalties.
 

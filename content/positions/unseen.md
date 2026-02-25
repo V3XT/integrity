@@ -1,5 +1,7 @@
 ---
 title: Unseen
+aliases:
+  - Unseen
 ---
 Characters can be unseen for a variety of reasons. Most commonly, they could be hidden, concealed by darkness, or by magic.
 

@@ -1,5 +1,7 @@
 ---
 title: Exhaustion
+aliases:
+  - Exhaustion
 ---
 Characters have -1 die to all actions.
 

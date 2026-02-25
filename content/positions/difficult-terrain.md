@@ -1,5 +1,7 @@
 ---
 title: Difficult Terrain
+aliases:
+  - Difficult Terrain
 ---
 When [[movement|moving]], you lose 1 die for each zone with difficult terrain that you cross.
 

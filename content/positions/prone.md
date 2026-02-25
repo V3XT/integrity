@@ -1,5 +1,7 @@
 ---
 title: Prone
+aliases:
+  - Prone
 ---
 Prone characters lose 1 die when making an attack, or [[movement|moving]].
 

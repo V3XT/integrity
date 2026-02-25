@@ -1,5 +1,8 @@
 ---
 title: Zones
+aliases:
+  - Zone
+  - Zones
 ---
 A zone is an abstraction of space. It's often a single room. A large space may be subdivided into multiple zones. A zone shouldn't be more than 10m across. 
 

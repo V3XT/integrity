@@ -1,5 +1,8 @@
 ---
 title: Fatigue
+aliases:
+  - Fatigue
+  - Fatigued
 ---
 If a character starts a [[time#Turns|Turn]] with more than five fatigue, they remove all fatigue and gain an [[exhaustion]].
 

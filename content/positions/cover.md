@@ -1,5 +1,7 @@
 ---
 title: Cover
+aliases:
+  - Cover
 ---
 **Cover** represents obstacles and barriers that hinder ranged attacks.
 

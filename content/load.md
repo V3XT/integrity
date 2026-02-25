@@ -1,5 +1,8 @@
 ---
 title: Load
+aliases:
+  - Load
+  - Inventory
 ---
 A character's Load is used to simplify tracking many different statuses. It allows several systems to work together in simple ways. Each character has a **Load** of 8 + 2 * Might. Load is more than just the number of things someone can carry. It also represents how many wounds they can suffer before going down, and how much magic they can contain.
 
