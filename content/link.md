@@ -16,4 +16,4 @@ The nature of a link may provide [[cover|Cover]], or a penalty when trying to [[
 
 It's possible that two zones might have multiple links between them, such as a hall with multiple doors to the same room or a balcony with a set of stairs to the lobby and the risk of jumping. 
 
-Characters can guard links, making it difficult for other characters to move through them. 
+Characters can [[guard|Guard]] links, making it difficult for other characters to move through them. 
