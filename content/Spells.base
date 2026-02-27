@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.inFolder("content/spells")
+views:
+  - type: table
+    name: Table
+    order:
+      - title
+      - cost
+      - target
+      - range
+      - effect
+      - duration
+  - type: list
+    name: View
