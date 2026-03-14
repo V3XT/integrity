@@ -18,7 +18,11 @@ To determine if there is an encounter, the GM rolls 2d6 and consults the table b
 | 10     | The party notices an encounter.              |
 | 11     | The party and an encounter notice each other |
 | 12     | An encounter notices the party.              |
+
+## Evidence
 A result of evidence should give the party a hint of what they could potentially encounter in the area. The remains of a campsite, the half-eaten corpse of a deer, or the shed scales of some monster.
+
+## Encounter
 An encounter result means that there is something there, and one or both parties are aware of the other. A pair of hunters, a pack of wolves, a basilisk.
 # What is Encountered?
 

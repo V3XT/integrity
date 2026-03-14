@@ -5,7 +5,7 @@ aliases:
   - Exploration
 ---
 # Exploration Procedure
-The exploration procedure is similar regardless of the location and [[Pace]], but there are some differences. In all cases, the [[players]] will describe what action they're taking, and then the GM will determine the result. If there is a potential for a [[encounter]], the GM will also determine if that occurs.
+The exploration procedure is similar regardless of the location and [[time|Pace]], but there are some differences. In all cases, the [[player|players]] will describe what action they're taking, and then the GM will determine the result. If there is a potential for a [[encounter]], the GM will also determine if that occurs.
 # Dungeon Exploration
 When exploring a dungeon or other dangerous area, the [[time|Pace]] should normally be in [[time#Turns|Turns]]. 
 Characters will be moving through unfamiliar areas that are known to be dangerous. While exploring, characters choose one of the followings modes.
@@ -25,7 +25,7 @@ Traversing a hex takes 1 hour, plus an additional hour for each of the following
 - [ ]  There's no path.
 - [ ]  There's a change in elevation.
 - [ ]  There's a difficult obstacle to overcome. (Like a river, or a canyon)
-- [ ] The weather is poor. 
+- [ ] The [[weather]] is poor. 
 - [ ] Vision is obscured (Fog, dense foliage, night)
 - [ ] You are [Overloaded](https://app.kanka.io/w/170051/entities/5184827).
 
