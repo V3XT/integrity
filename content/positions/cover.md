@@ -3,7 +3,7 @@ title: Cover
 aliases:
   - Cover
 ---
-**Cover** represents obstacles and barriers that hinder ranged attacks.
+**Cover** represents obstacles and barriers that hinder ranged [[attack|Attacks]].
 
 Each point of Cover increases the difficulty to hit by 1.
 

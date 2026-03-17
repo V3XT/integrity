@@ -3,10 +3,12 @@ title: Unseen
 aliases:
   - Unseen
 ---
-Characters can be unseen for a variety of reasons. Most commonly, they could be hidden, concealed by darkness, or by magic.
+[[character|Characters]] can be unseen for a variety of reasons. Most commonly, they could be hidden, concealed by darkness, or by magic.
 
-Characters add 1 die to attacks made while unseen.
+Unseen characters in other [[zone|Zones]] cannot be [[attack|attacked]].
 Characters remove 2 dice when attacking an unseen character in the same zone.
-Unseen characters in other zones cannot be attacked.
+Characters add 1 die to all [[attack|Attacks]] they make while unseen.
 
-*If two characters can't see each other, the first and second effects will both apply, resulting in a net 1 die penalty when attacking each other.*
+
+> [!info] 
+> If two characters can't see each other, the bonus and penalty effects will both apply, resulting in a net 1 die penalty when attacking each other.

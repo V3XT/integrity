@@ -4,8 +4,12 @@ aliases:
   - Grabbed
   - Grab
 ---
-A grabbed character loses 1 die when they attempt any [[Test]]. Tests with no set difficulty require a difficulty of 7. 
+A character can be grabbed multiple times, by one or more characters.
+A character can sustain a number of grabs equal to the number of arms they have.
 
-A character can be grabbed multiple times, by one or more characters. 
+A grabbed character loses 1 die from all [[test|Tests]] for each grab. Tests with no set difficulty gain a difficulty of 7. 
 
-A character can make a number of grabs equal to the number of arms they have.
+
+
+
+

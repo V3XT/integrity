@@ -10,11 +10,16 @@ The exploration procedure is similar regardless of the location and [[time|Pace]
 When exploring a dungeon or other dangerous area, the [[time|Pace]] should normally be in [[time#Turns|Turns]]. 
 Characters will be moving through unfamiliar areas that are known to be dangerous. While exploring, characters choose one of the followings modes.
 ## Cautious
-While character's move cautiously, they can search 1 [[zone]] per Turn. They discover any traps or other hazards that aren't completely disguised. They remain quiet enough to not be heard by characters in other zones, but may be seen, especially if they are using a light in the dark.
-
-When backtracking, characters can move through 4 zones while remaining cautious.
+- Characters can traverse and interact with 1 [[zone]] per Turn. 
+- They remain quiet enough to not be heard by characters in other zones, but may be seen, especially if they are using a light in the dark.
+## Normal
+- Characters can traverse and interact with up to 3 [[zone|Zones]] per Turn. 
+- They can be heard by characters in adjacent [[zone|Zones]].
 ## Reckless
-While moving recklessly, character's can travel through up to 20 zones. This may trigger any traps or hazards they aren't aware of how to bypass. They can be heard by other characters from several zones away. This should typically only be done through areas that are known to be safe, or in an attempt to escape dire circumstances.
+- Characters can traverse up to 20 zones, but can't make interactions more complicated than opening an unlocked door, grabbing an item off a table, or pulling a lever.
+- They automatically trigger any traps or hazards they're unaware of.
+- They can be heard from several zones away.
+- This should typically only be done through areas that are known to be safe, or in an attempt to escape dire circumstances.
 
 # Overland Exploration
 
@@ -29,7 +34,13 @@ Traversing a hex takes 1 hour, plus an additional hour for each of the following
 - [ ] Vision is obscured (Fog, dense foliage, night)
 - [ ] You are [Overloaded](https://app.kanka.io/w/170051/entities/5184827).
 
-Character's may choose to travel briskly. The time to traverse the hex is reduced by 1 hour, but they gain [[exhaustion]].
+The party moves at one of the following speeds.
+## Cautious
+The time to traverse the hex is doubled. The GM will roll 1 less die for the [[encounter#The Encounter Roll|encounter roll]].
+## Normal 
+No special effect.
+## Reckless
+The time to traverse the hex is reduced by 2 hours (min 1), and the group gains 1 exhaustion per member. The GM will roll an additional die for the [[encounter#The Encounter Roll|encounter roll]], 
 
-They may instead choose to move cautiously. The time to traverse the hex is doubled, but the GM will roll 1 less die for the [[encounter#The Encounter Roll|encounter roll]].
+
 

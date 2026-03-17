@@ -4,14 +4,31 @@ aliases:
   - Test
   - Tests
 ---
-Tests are used whenever a character attempts something with uncertain results. Tests should only be called for when there is a reasonable chance the action could fail, and there are meaningful consequences for failure. The most common consequence for failing is wasting time, or putting a character at risk from a threat. In general, players should describe what actions their characters take, and only perform a test when called for by the GM. If a player asks to do something that their character would understand has no chance of succeeding, the GM should inform them of such, and not call for a roll.
+# When To Make a Test
 
+As much as possible, actions should be resolved by describing an approach, and the [[game-master|Game Master]] adjudicating the result. A test is only needed when an action is taken with an uncertain outcome.
+
+## When *Not* To Make a Test
+
+Tests should almost never be made for the following situations.
+
+#todo  Make this less of a rip off of Knave
+### Social Tests
+The results of social interaction should be resolved through roleplay and reason. If the GM is uncertain of a how a character would respond, they may consult a reaction table, but players should not be rolling to see how persuasive their argument is.
+### Knowledge Tests
+
+Characters know everything that's common knowledge or would make make sense for them to know. Anything else should be discovered in game.
+### Search Tests
+
+
+# How To Make a Test
   
 To resolve a test:
 
-- **The GM determines what ability is being tested.** They will pick Might, Knack or Will as best fits the situation.
+- **The GM determines what [[attribute]] is being tested.** They will pick Might, Knack or Will as best fits the situation.
+- **The GM determines the difficulty of the test.** This should typically be a number between 6 and 10. 
 - **Gather your dice pool.** It starts at 2d6. Add an additional number of d6s equal to your ability. You may also add or remove dice based on equipment or situational modifiers, such as [[load]].
-- **Roll your dice pool.** Take all the dice in your pool, and roll them.
+- **Roll your dice pool.** 
 - **Sum the greatest 2 dice.** This value determines the result of your test.
 
 If you would ever remove dice from your pool such that you'd have less than 2, instead add those dice. You're pool is now negative. Instead of summing the greatest 2 dice, you will sum the least 2.
@@ -21,33 +38,45 @@ If you would ever remove dice from your pool such that you'd have less than 2, i
 > Grog is fleeing from a horde of zombies, and attempts to jump a 3 meter chasm. The GM calls for a **Might 8 Test.** His pool starts at 2d6. Grog has a Might of 2, so he adds that to his pool for 4d6. He also has nimble boots, which grant him 1 boon in feats of athleticism, bring him to 5d6. Finally he is burdened with treasure, exceeding his [[load]] by 1. This reduces his pool to 4d6. He rolls 4d6, and sums the greatest 2 dice to determine the result of his test.
  
 
-
-
-|                      |                  |                                                                                                                                                                                                                                                                           |
-| -------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ⚀⚀                   | Critical Failure | If the result of the dice is ⚀⚀ the Test is failed, even if it would pass when adding the character's ability. In addition the consequence of failure is maximized. This typically shouldn't introduce _unexpected_ consequences, or make the character look like a fool. |
-| Result <= Difficulty | Failure          | The Test is failed, and the character suffers the consequence.                                                                                                                                                                                                            |
-| Result > Difficulty  | Success          | The Test is passed, and the character successfully accomplishes the action.                                                                                                                                                                                               |
-| ⚅⚅                   | Critical Success | The test is passed, and the character successfully accomplishes the action with a bonus.                                                                                                                                                                                  |
+|                      |                  |                                                                                                                                                                                                       |
+| -------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚀⚀                   | Critical Failure | If the result of the dice is ⚀⚀ the Test is failed and the consequence of failure is maximized. This typically shouldn't introduce _unexpected_ consequences, or make the character look like a fool. |
+| Result < Difficulty  | Failure          | The Test is failed, and the character suffers the consequence.                                                                                                                                        |
+| Result >= Difficulty | Success          | The Test is passed, and the character successfully accomplishes the action.                                                                                                                           |
+| ⚅⚅                   | Critical Success | The test is passed, and the character successfully accomplishes the action with a bonus.                                                                                                              |
 
 > [!Example]
 > Grog has 2 Might. He rolls the dice and gets the following result.
 > ⚀⚀- Critical Failure. Grog stumbles near the edge and plunges into the chasm.
-> ⚀⚂ - Failure. Grog isn't able to completely clear the gap and catches himself on the edge. Hell need to pull himself up as his next action.
+> ⚀⚂ - Failure. Grog isn't able to completely clear the gap and catches himself on the edge. He'll need to pull himself up as his next action.
 > ⚃⚃ - Success. Grog makes it to the other side of the gap.
 > ⚅⚅ - Grog makes it to the other side of the gap with ease. He's able to gain a sizeable lead.
 
   
 It's important to consider that when attempting Tests while using [[initiative]], there is often no need to handle Critical Success and Failure specially. The nature of the initiative system means the character has already received a bonus or consequence in the time the action took.
+
+## Setting Difficulty
+
+The GM should typically be transparent about the difficulty of a task. The difficulty should represent the minimum value needed to succeed at all, with higher results representing a better success.
+
+## Adjudicating the Result
+
+It is the GMs job to adjudicate the result of a test. All players should have an idea of what success and failure look like *before* the test is made. 
+
+#todo clean this up.
+The difference between the result and the difficulty should influence the fiction. Meeting the difficulty is a narrow success, while surpassing it by 3 or more represents a complete success.
+
+Similarly, failing by a few points, is a marginal failure that gets worse the lower the result is, and the dreaded 2 represents worst possible outcome.
+
 # Extended Tests
 
 Some tests cannot be completed in a single action, and must instead be attempted over the course of an entire turn or more. The GM determines the **difficulty** of the test, and how much **progress** will need to be made to clear it. Each attempt at an extended test takes at least a turn. Like a regular test, roll 2d6 + the tested ability. Increase your progress by the difference of the difficulty (failing doesn't decreases progress). When enough progress has been achieved, the test is passed.
 
-Extended tests can sometimes be attempted by multiple people at a time. The entire party can work together to clear away rubble, but only one person can work on picking a lock. When it makes sense, all players participating in the test make the roll each turn, and increase the progress collectively. The GM may rule that there is a limit to how many people can attempt a test at a time.
+Extended tests can often be attempted by multiple people at the same time. The entire party can work together to clear away rubble, but only one person can work on picking a lock. When it makes sense, all players participating in the test make the roll each turn, and increase the progress collectively. The GM may rule that there is a limit to how many people can attempt a test at a time.
 
 Things to keep in mind:
 
-- Like all tests, they should only be made when there is a cost for failing. When exploring, this cost will often be time.
+- Like all tests, they should only be made when there is a cost for failing. When exploring, the cost is often in the form of time, and the risk of being discovered.
 - Difficulty represents how hard it is to make progress.
 - Progress represents how much time a task will take.
 - Some tasks may be low difficulty, but require a lot of progress to complete.
