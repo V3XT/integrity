@@ -19,54 +19,47 @@ The results of social interaction should be resolved through roleplay and reason
 
 Characters know everything that's common knowledge or would make make sense for them to know. Anything else should be discovered in game.
 ### Search Tests
-
+ Characters shouldn't generally need to make a test to perceive their surroundings. See [[information]].
 
 # How To Make a Test
   
-To resolve a test:
 
-- **The GM determines what [[attribute]] is being tested.** They will pick Might, Knack or Will as best fits the situation.
-- **The GM determines the difficulty of the test.** This should typically be a number between 6 and 10. 
-- **Gather your dice pool.** It starts at 2d6. Add an additional number of d6s equal to your ability. You may also add or remove dice based on equipment or situational modifiers, such as [[load]].
-- **Roll your dice pool.** 
-- **Sum the greatest 2 dice.** This value determines the result of your test.
+1. **Determine the [[Attribute]].**
+   [[might|Might]], [[knack|Knack]] or [[will|Will]]. The GM has final say.
+2. **Set the Difficulty.**
+   The GM sets the Difficulty between 6 and 11.
+3. **Build your Dice Pool**
+   Start with 2d6.
+   Add additional d6s equal to your Attribute.
+4. **Roll the Pool**
+   Roll all dice in your Dice Pool at once.
+5. **Read the Result**
+   The sum of the highest two dice is your Result.
+   Compare your Result to the Difficulty.
+   - If the Result is equal or higher, you succeed with degrees of success equal to to the amount you exceeded the Difficulty by.
+   - If the Result is lower, you fail with degrees of failure equal to the difference.
 
-If you would ever remove dice from your pool such that you'd have less than 2, instead add those dice. You're pool is now negative. Instead of summing the greatest 2 dice, you will sum the least 2.
 
+If you would ever remove dice from your pool such that you'd have less than 2 dice, instead add those dice. You're pool is now negative. Instead of summing the highest 2 dice, you will sum the lowest 2.
 
-> [!Example]
-> Grog is fleeing from a horde of zombies, and attempts to jump a 3 meter chasm. The GM calls for a **Might 8 Test.** His pool starts at 2d6. Grog has a Might of 2, so he adds that to his pool for 4d6. He also has nimble boots, which grant him 1 boon in feats of athleticism, bring him to 5d6. Finally he is burdened with treasure, exceeding his [[load]] by 1. This reduces his pool to 4d6. He rolls 4d6, and sums the greatest 2 dice to determine the result of his test.
- 
-
-|                      |                  |                                                                                                                                                                                                       |
-| -------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ⚀⚀                   | Critical Failure | If the result of the dice is ⚀⚀ the Test is failed and the consequence of failure is maximized. This typically shouldn't introduce _unexpected_ consequences, or make the character look like a fool. |
-| Result < Difficulty  | Failure          | The Test is failed, and the character suffers the consequence.                                                                                                                                        |
-| Result >= Difficulty | Success          | The Test is passed, and the character successfully accomplishes the action.                                                                                                                           |
-| ⚅⚅                   | Critical Success | The test is passed, and the character successfully accomplishes the action with a bonus.                                                                                                              |
 
 > [!Example]
-> Grog has 2 Might. He rolls the dice and gets the following result.
-> ⚀⚀- Critical Failure. Grog stumbles near the edge and plunges into the chasm.
-> ⚀⚂ - Failure. Grog isn't able to completely clear the gap and catches himself on the edge. He'll need to pull himself up as his next action.
-> ⚃⚃ - Success. Grog makes it to the other side of the gap.
-> ⚅⚅ - Grog makes it to the other side of the gap with ease. He's able to gain a sizeable lead.
+> Grog is fleeing from a horde of zombies, and attempts to jump across a large gap. The GM calls for a **Might Test** with Difficulty 8. The Dice Pool starts at 2d6. Grog has a Might of 2, so he adds that to his pool for 4d6. He also has nimble boots, which grant +1d6 in feats of athleticism, bring him to 5d6. Finally he is burdened with treasure, exceeding his [[load]] by 1. This reduces his pool to 4d6. He rolls 4d6, and sums the highest 2 dice to determine the result of his test.
 
-  
-It's important to consider that when attempting Tests while using [[initiative]], there is often no need to handle Critical Success and Failure specially. The nature of the initiative system means the character has already received a bonus or consequence in the time the action took.
 
-## Setting Difficulty
+## Setting the Difficulty
 
-The GM should typically be transparent about the difficulty of a task. The difficulty should represent the minimum value needed to succeed at all, with higher results representing a better success.
+The GM should typically be transparent about the difficulty of a task. The difficulty should represent the minimum needed to succeed at all, with higher results representing a better success.
 
 ## Adjudicating the Result
 
 It is the GMs job to adjudicate the result of a test. All players should have an idea of what success and failure look like *before* the test is made. 
 
-#todo clean this up.
-The difference between the result and the difficulty should influence the fiction. Meeting the difficulty is a narrow success, while surpassing it by 3 or more represents a complete success.
+The degree of success or failure should influence the fiction. A result of 12 represents the best possible outcome, while a 2 represents the worst. Everything else should fall between those extremes. Meeting the Difficulty is a success that scrapes by.
 
-Similarly, failing by a few points, is a marginal failure that gets worse the lower the result is, and the dreaded 2 represents worst possible outcome.
+> [!EXAMPLE] 
+> A character is trying to jump across a dangerous gap. The GM gives this a difficulty of 7 and a cost of 2 [[fatigue]]. While a 2 could represent plunging into the abyss, any other failure is better handled by increasing the fatigue cost, or even potentially suffering [[wound|Wounds]]. Each degree of success should reduce the fatigue cost.
+
 
 # Extended Tests
 
